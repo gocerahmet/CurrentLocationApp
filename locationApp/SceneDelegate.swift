@@ -1,9 +1,7 @@
-//
 //  SceneDelegate.swift
-//  locationApp
-//
-//  Created by Gocer on 2.07.2022.
-//
+//  Current Location App
+//  Created by Ahmet Gocer
+
 
 import UIKit
 
